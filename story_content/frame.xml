@@ -1,0 +1,2025 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns11111001101" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns11111001101" font="Open Sans" controllayout="npnxnanbsnfns11111001101" colorscheme="pxabnsnfns11111001101" string_table="pxabnsnfns11111001101" />
+    <layout name="pxabnsnfns11111001101" font="Open Sans" controllayout="pxabnsnfns11111001101" colorscheme="pxabnsnfns11111001101" string_table="pxabnsnfns11111001101" />
+    <layout name="npxnabnsnfns11111001101" font="Open Sans" controllayout="npxnabnsnfns11111001101" colorscheme="pxabnsnfns11111001101" string_table="pxabnsnfns11111001101" />
+    <layout name="npnxnanbnsnfns11111001101" font="Open Sans" controllayout="npnxnanbnsnfns11111001101" colorscheme="pxabnsnfns11111001101" string_table="pxabnsnfns11111001101" />
+    <layout name="pxabnsnfns11111001100" font="Open Sans" controllayout="pxabnsnfns11111001100" colorscheme="pxabnsnfns11111001101" string_table="pxabnsnfns11111001101" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Certificate Course on &amp;quot;Purified Water Analysis by Using the Membrane Filtration&amp;quot;" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6fvSaxf0mxy_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/5nquxVKuUmm.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="Logo for storyline 200px X 220 px.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+          <option name="settings" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns11111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns11111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns11111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111001100">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns11111001101">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns11111001101">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Open Sans">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Times New Roman">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5dwzLMPGeqy" displaytext="PW Analysis by MF" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5dwzLMPGeqy.5pgd16dYRpE" displaytext="Lets start" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6Tx4hpWC1Iv" displaytext="Prerequisites" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6Xz7pTaaWxN" displaytext="Parts of Membrane Filtration Assembly" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6UDma12il35" displaytext="Parts of Membrane Filtration Assembly" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6eslFQyerUK" displaytext="Complete Membrane Filtration Assembly" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6pvHxDCOQvu" displaytext="Manifold" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6ETpeO9dcRi" displaytext="Membrane Filters" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6lkoyf1MskU" displaytext="Typical Membrane Filter" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.685vEgPptEG" displaytext="Principle of Filtration" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6HDxemHswu8" displaytext="Inspection of Media PlatesAssessment of Media Plates" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6Wnl8Nr5lOy" displaytext="Pre-incubation of Media Plates " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.60k6E5ivSSw" displaytext="Growth Promotion Testing of Media:" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5cPRCaO37BM" displaytext="Growth Inhibition Testing of Media:" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5tKQ483fdMz" displaytext="Indicative properties  Testing of Media:" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6KtgraytNSL" displaytext="Incubators Part 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6aIGHqUqr6q" displaytext="Incubators Part 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5opzMkDuu2E" displaytext="Laminar Air Flow Cabinet (LAF)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6LXXSLeYFiB" displaytext="Sterile Forceps " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5Z5zc24VHsa" displaytext="Media Used In Testing" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6epjyeNXWE4" displaytext="R2A Agar" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6TLZrZYjJxd" displaytext="R2A Agar_Part 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6VIX55D1h4n" displaytext="Why R2A Agar is used?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5rGUIU1vRfS" displaytext="SCDM" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5ZKg9aBBLKq" displaytext="Why SCDM is Used ?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6rAVGu7nIAK" displaytext="Cetrimide Agar" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5pkQ5JSuciR" displaytext="Why Cetrimide Agar is used…?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6QCyQF2K6O3" displaytext="MacConkey’s Agar" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6TVegmIHZAF" displaytext="Why MacConkey’s Agar is used ?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6rmwQTtvGzF" displaytext="Mannitol Salt Agar" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5xBia7Curyj" displaytext="Why Mannitol Salt Agar is used ?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5XxFbfGvCb8" displaytext="RVSEB" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6Z5kiT433PT" displaytext="Why RVSE Broth is used ?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5deu7D5P8rl" displaytext="Xylose Lysine Deoxycholate Agar (XLD Agar)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6iJLwJLN6U6" displaytext="Why XLDA is used ?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6ifu2Y13evJ" displaytext="Let&amp;apos;s Start" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6Kd4KBEE0Qo" displaytext=" Making Arrangements_Part 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.69RFQCeX0x7" displaytext=" Making Arrangements_Part 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6f5L01lVJ71" displaytext="Test to Be Perform" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6axWP6HdEeM" displaytext="Flow of Testing" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6gZQH1T5Kyq" displaytext="Negative Control Testing Flow Chart -TAMC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5vAqQzTg0C8" displaytext="Negative Control Test For TBC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6QcCZrRniu2" displaytext="Negative Control Test For TBC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6lblbkkyqht" displaytext="Negative Control Test For TBC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.68KlkGFR4wj" displaytext="Negative Control Test For TYMC" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5mkcgphdYx2" displaytext="Negative Control Test For TYMC" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6czwb1USZb8" displaytext="Negative Control Test For TYMC" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6Vnwvwfrfwg" displaytext="Purified Water Testing Flow chart - TAMC" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6VOIrizlpCP" displaytext="Purified Water Sample Test For TBC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5oxGZZSLAAi" displaytext="Purified Water Sample Test For TBC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6YJ92JzCEpn" displaytext="Purified Water Sample Test For TBC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6MxLOGCFjlH" displaytext="Purified Water Sample Test For TBC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5seBoWfsnLO" displaytext="Purified Water Test For TBC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5mMjEIPb0QW" displaytext="Purified Water Sample Test For TYMC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5oqfsM92sdM" displaytext="Purified Water Sample Test For TYMC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5a3p6yNqmjT" displaytext="Purified Water Sample Test For TYMC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5ibQovHqfAD" displaytext="Purified Water Sample Test For TYMC " expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5dXtGqfYkr9" displaytext="Purified Water Test For TYMC" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6Ls9D1XC3rF" displaytext="Flow Chart- Negative Control Testing flow chart" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6etyiCbu5Sq" displaytext="Negative Control Test For Specified Microorganisms" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5nYDfPd4PU6" displaytext="Negative Control Test For Specified Microorganisms" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6cDNwnHGXo5" displaytext="Enrichment of Specified Microorganisms" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5ohepuyaa2w" displaytext="Need For Enrichment" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6HLOC3cfik8" displaytext="Sample Enrichment For Specified Microorganisms" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.61RnOPUxewP" displaytext="Sample Enrichment For Specified Microorganisms" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5gDYQjGyWj8" displaytext="What’s Next?" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5oWF5rP8zAL" displaytext="Test for Escherichia coli" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6rUZ4VWmBcd" displaytext="Flow Chart- E.coli" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6OWikRHKKNR" displaytext="Inoculation of Enriched sample in MacConkey’s Broth (MB)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6fdYht2i9L1" displaytext="Inoculation of Enriched sample in MacConkey’s Broth (MB)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6NEVMOI4FE9" displaytext="Subculturing from MacConkey’s Broth (MB) To MacConkey&amp;apos;s Agar (MA)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6ZfN5Wqdv87" displaytext="Subculturing from MacConkey’s Broth (MB) To MacConkey&amp;apos;s Agar (MA)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6RDTme72CRm" displaytext="Observation and Result Recording" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6LIq9uMmb7i" displaytext="Observation and Result Recording" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6kyq8cJZB3G" displaytext="Test for Pseudomonas aeruginosa" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5ea6P9JmzXy" displaytext="Flow Chart- P.aeruginosa" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6X1Tq5MNzeY" displaytext=" Subculturing of Enrichment sample from SCDM to      Cetrimide Agar (CA)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5bRq58kPMCB" displaytext=" Subculturing of Enrichment sample from SCDM to      Cetrimide Agar (CA)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5aHt82TEL0t" displaytext="Observation and Result Recording" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5YPqBx6mQ44" displaytext="Observation and Result Recording" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5ZZJ41zA07N" displaytext="Test for Staphylococcus aureus" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6ppSTs93knG" displaytext="Flow Chart- S.aureus" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.67H3vEsiOtQ" displaytext="Subculturing of Enrichment sample from SCDM to Subculture on  Mannitol Salt Agar  (MA)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6Hry5UWUhlB" displaytext="Subculturing of Enrichment sample from SCDM to Subculture on  Mannitol Salt Agar  (MA)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6cRQrBOxEFg" displaytext="Observation and Result Recording" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6gU0JOWGZhI" displaytext="Observation and Result Recording" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6fBcK3eYMs3" displaytext="Test for Salmonella species" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5hycL6Nm8xy" displaytext="Flow Chart- Salmonella" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5Xeexea2GlI" displaytext="Enrichment of sample from Enriched SCDM to Rappaport Vassiliadis Salmonella Enrichment Broth   (RVSEB)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5wmN1k4EFZy" displaytext="Enrichment of sample from Enriched SCDM to Rappaport Vassiliadis Salmonella Enrichment Broth   (RVSEB)" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6BTVrWpFu2h" displaytext="Subculturing of sample from Enriched RVSEB to XLD Agar Plate" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5pGmmCwQOCW" displaytext="Subculturing of sample from Enriched RVSEB to XLD Agar Plate" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6CvaDGWMCoO" displaytext="Observation and Result Recording" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.5fEEOFKHu10" displaytext="Observation and Result Recording" expand="false" type="slide" />
+            <slidelink slideid="_player.5dwzLMPGeqy.6aGn32lAWyn" displaytext="Thank You" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="5dwzLMPGeqy.6KtgraytNSL" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Incubator Types in Microbiology Laboratory&amp;#xD;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="In microbiology laboratories, incubators play a crucial role in providing controlled environments for the cultivation and growth of microorganisms. These specialized devices maintain optimal temperature, humidity, and other conditions to support the proliferation of bacteria, fungi, and other microbes. Here are common types of incubators used in microbiology:&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;BOD Incubators:&amp;#xD;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="Biological Oxygen Demand (BOD) incubators are designed for applications requiring low-temperature incubation. They maintain a stable environment for delicate cultures, biochemical oxygen demand tests, and other processes that demand precise temperature control."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xD;CO2 Incubators:&amp;#xD;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="CO2 incubators are essential for cell culture work, particularly with mammalian cells. They regulate not only temperature and humidity but also carbon dioxide levels, creating an environment akin to the human body. This is vital for maintaining pH balance in cell cultures."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xD;Anaerobic Incubators:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;Anaerobic incubators are used when cultivating microorganisms that thrive in the absence of oxygen. These incubators create oxygen-free environments, promoting the growth of anaerobes and facilitating specific microbiological studies."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;Shaking Incubators:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;Shaking incubators combine controlled temperature with agitation. They are ideal for experiments requiring continuous mixing, such as bacterial cultures, fermentation studies, or any application where homogeneous conditions are crucial."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xD;Peltier-Based Incubators:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;Peltier-based incubators utilize thermoelectric cooling technology, offering precise temperature control and faster response times. These are energy-efficient and suitable for applications demanding tight temperature regulation. &amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated Incubators (Cooling chembers):"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated incubators incorporate cooling systems, enabling them to maintain lower temperatures. These are suitable for applications requiring both incubation and storage of samples at controlled temperatures."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xD;Microaerophilic Incubators:&amp;#xD;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="Microaerophilic incubators create environments with reduced oxygen levels, making them suitable for cultivating microorganisms that thrive in low-oxygen conditions, such as certain bacteria and protozoa.&amp;#xD;&amp;#xD;Choosing the right incubator type depends on the specific requirements of the microbiological work being conducted, ensuring optimal conditions for the growth and study of microorganisms in a controlled laboratory setting."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5dwzLMPGeqy.6aIGHqUqr6q" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Incubator Types in Microbiology Laboratory&amp;#xD;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="In microbiology laboratories, incubators play a crucial role in providing controlled environments for the cultivation and growth of microorganisms. These specialized devices maintain optimal temperature, humidity, and other conditions to support the proliferation of bacteria, fungi, and other microbes. Here are common types of incubators used in microbiology:&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;BOD Incubators:&amp;#xD;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="Biological Oxygen Demand (BOD) incubators are designed for applications requiring low-temperature incubation. They maintain a stable environment for delicate cultures, biochemical oxygen demand tests, and other processes that demand precise temperature control."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xD;CO2 Incubators:&amp;#xD;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="CO2 incubators are essential for cell culture work, particularly with mammalian cells. They regulate not only temperature and humidity but also carbon dioxide levels, creating an environment akin to the human body. This is vital for maintaining pH balance in cell cultures."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xD;Anaerobic Incubators:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;Anaerobic incubators are used when cultivating microorganisms that thrive in the absence of oxygen. These incubators create oxygen-free environments, promoting the growth of anaerobes and facilitating specific microbiological studies."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;Shaking Incubators:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;Shaking incubators combine controlled temperature with agitation. They are ideal for experiments requiring continuous mixing, such as bacterial cultures, fermentation studies, or any application where homogeneous conditions are crucial."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xD;Peltier-Based Incubators:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;Peltier-based incubators utilize thermoelectric cooling technology, offering precise temperature control and faster response times. These are energy-efficient and suitable for applications demanding tight temperature regulation. &amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated Incubators (Cooling chembers):"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated incubators incorporate cooling systems, enabling them to maintain lower temperatures. These are suitable for applications requiring both incubation and storage of samples at controlled temperatures."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xD;Microaerophilic Incubators:&amp;#xD;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="Microaerophilic incubators create environments with reduced oxygen levels, making them suitable for cultivating microorganisms that thrive in low-oxygen conditions, such as certain bacteria and protozoa.&amp;#xD;&amp;#xD;Choosing the right incubator type depends on the specific requirements of the microbiological work being conducted, ensuring optimal conditions for the growth and study of microorganisms in a controlled laboratory setting."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5dwzLMPGeqy.5opzMkDuu2E" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Laminar Airflow Cabinet:&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Working Principle:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The laminar airflow cabinet works on the principle of directing a unidirectional, filtered air flow over the work area. This helps to create a &amp;quot;laminar&amp;quot; or smooth, continuous flow of air that carries away contaminants, preventing them from reaching the experimental work surface.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Components:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;High-Efficiency Particulate Air (HEPA) Filter: The primary component, the HEPA filter, removes airborne particles, bacteria, and other contaminants from the incoming air.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Blower Motor: "&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Generates the airflow by drawing air through the HEPA filter and then expelling it in a controlled laminar flow.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Work Area: &amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The space within the cabinet where the experiments or procedures are conducted. It remains under constant positive pressure to prevent contamination from the external environment.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Types:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="1. Horizontal Laminar Flow Cabinet: "&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Air flows from the back to the front of the cabinet, providing a clean workspace for materials.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="2. Vertical Laminar Flow Cabinet:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text=" Air flows from the top to the bottom, creating a sterile environment for the materials on the workspace.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Applications:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;Microbiological research&amp;#xD;Tissue culture&amp;#xD;Sterile preparation of materials and equipment&amp;#xD;Drug preparation in pharmacies&amp;#xD;Electronics assembly&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Benefits:"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Maintains a sterile environment by minimizing the risk of airborne contamination.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Protects the operator and the experiment from external contaminants.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Essential for procedures requiring a high degree of precision and cleanliness.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Using a laminar airflow cabinet is a standard practice in laboratories where maintaining a sterile environment is critical for experimental success. It ensures the integrity of the work being conducted and is an essential tool in various scientific disciplines."&gt;
+        &lt;Style FontFamily="Times New Roman" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5dwzLMPGeqy.6VOIrizlpCP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Center" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Why Petri plates are often inverted during incubation?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Incubator Types in Microbiology Laboratory&amp;#xD;In microbiology laboratories, incubators play a crucial role in providing controlled environments for the cultivation and growth of microorganisms. These specialized devices maintain optimal temperature, humidity, and other conditions to support the proliferation of bacteria, fungi, and other microbes. Here are common types of incubators used in microbiology:&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;BOD Incubators:&amp;#xD;Biological Oxygen Demand (BOD) incubators are designed for applications requiring low-temperature incubation. They maintain a stable environment for delicate cultures, biochemical oxygen demand tests, and other processes that demand precise temperature control.&amp;#xD;&amp;#xD;CO2 Incubators:&amp;#xD;CO2 incubators are essential for cell culture work, particularly with mammalian cells. They regulate not only temperature and humidity but also carbon dioxide levels, creating an environment akin to the human body. This is vital for maintaining pH balance in cell cultures.&amp;#xD;&amp;#xD;Anaerobic Incubators:&amp;#xD;Anaerobic incubators are used when cultivating microorganisms that thrive in the absence of oxygen. These incubators create oxygen-free environments, promoting the growth of anaerobes and facilitating specific microbiological studies.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;Shaking Incubators:&amp;#xD;Shaking incubators combine controlled temperature with agitation. They are ideal for experiments requiring continuous mixing, such as bacterial cultures, fermentation studies, or any application where homogeneous conditions are crucial.&amp;#xD;&amp;#xD;Peltier-Based Incubators:&amp;#xD;Peltier-based incubators utilize thermoelectric cooling technology, offering precise temperature control and faster response times. These are energy-efficient and suitable for applications demanding tight temperature regulation. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated Incubators (Cooling chembers):&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated incubators incorporate cooling systems, enabling them to maintain lower temperatures. These are suitable for applications requiring both incubation and storage of samples at controlled temperatures.&amp;#xD;&amp;#xD;Microaerophilic Incubators:&amp;#xD;Microaerophilic incubators create environments with reduced oxygen levels, making them suitable for cultivating microorganisms that thrive in low-oxygen conditions, such as certain bacteria and protozoa.&amp;#xD;&amp;#xD;Choosing the right incubator type depends on the specific requirements of the microbiological work being conducted, ensuring optimal conditions for the growth and study of microorganisms in a controlled laboratory setting.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5dwzLMPGeqy.5oxGZZSLAAi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Center" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Why Petri plates are often inverted during incubation?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Incubator Types in Microbiology Laboratory&amp;#xD;In microbiology laboratories, incubators play a crucial role in providing controlled environments for the cultivation and growth of microorganisms. These specialized devices maintain optimal temperature, humidity, and other conditions to support the proliferation of bacteria, fungi, and other microbes. Here are common types of incubators used in microbiology:&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;BOD Incubators:&amp;#xD;Biological Oxygen Demand (BOD) incubators are designed for applications requiring low-temperature incubation. They maintain a stable environment for delicate cultures, biochemical oxygen demand tests, and other processes that demand precise temperature control.&amp;#xD;&amp;#xD;CO2 Incubators:&amp;#xD;CO2 incubators are essential for cell culture work, particularly with mammalian cells. They regulate not only temperature and humidity but also carbon dioxide levels, creating an environment akin to the human body. This is vital for maintaining pH balance in cell cultures.&amp;#xD;&amp;#xD;Anaerobic Incubators:&amp;#xD;Anaerobic incubators are used when cultivating microorganisms that thrive in the absence of oxygen. These incubators create oxygen-free environments, promoting the growth of anaerobes and facilitating specific microbiological studies.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;Shaking Incubators:&amp;#xD;Shaking incubators combine controlled temperature with agitation. They are ideal for experiments requiring continuous mixing, such as bacterial cultures, fermentation studies, or any application where homogeneous conditions are crucial.&amp;#xD;&amp;#xD;Peltier-Based Incubators:&amp;#xD;Peltier-based incubators utilize thermoelectric cooling technology, offering precise temperature control and faster response times. These are energy-efficient and suitable for applications demanding tight temperature regulation. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated Incubators (Cooling chembers):&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated incubators incorporate cooling systems, enabling them to maintain lower temperatures. These are suitable for applications requiring both incubation and storage of samples at controlled temperatures.&amp;#xD;&amp;#xD;Microaerophilic Incubators:&amp;#xD;Microaerophilic incubators create environments with reduced oxygen levels, making them suitable for cultivating microorganisms that thrive in low-oxygen conditions, such as certain bacteria and protozoa.&amp;#xD;&amp;#xD;Choosing the right incubator type depends on the specific requirements of the microbiological work being conducted, ensuring optimal conditions for the growth and study of microorganisms in a controlled laboratory setting.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5dwzLMPGeqy.6YJ92JzCEpn" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Center" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Why Petri plates are often inverted during incubation?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Incubator Types in Microbiology Laboratory&amp;#xD;In microbiology laboratories, incubators play a crucial role in providing controlled environments for the cultivation and growth of microorganisms. These specialized devices maintain optimal temperature, humidity, and other conditions to support the proliferation of bacteria, fungi, and other microbes. Here are common types of incubators used in microbiology:&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;BOD Incubators:&amp;#xD;Biological Oxygen Demand (BOD) incubators are designed for applications requiring low-temperature incubation. They maintain a stable environment for delicate cultures, biochemical oxygen demand tests, and other processes that demand precise temperature control.&amp;#xD;&amp;#xD;CO2 Incubators:&amp;#xD;CO2 incubators are essential for cell culture work, particularly with mammalian cells. They regulate not only temperature and humidity but also carbon dioxide levels, creating an environment akin to the human body. This is vital for maintaining pH balance in cell cultures.&amp;#xD;&amp;#xD;Anaerobic Incubators:&amp;#xD;Anaerobic incubators are used when cultivating microorganisms that thrive in the absence of oxygen. These incubators create oxygen-free environments, promoting the growth of anaerobes and facilitating specific microbiological studies.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;Shaking Incubators:&amp;#xD;Shaking incubators combine controlled temperature with agitation. They are ideal for experiments requiring continuous mixing, such as bacterial cultures, fermentation studies, or any application where homogeneous conditions are crucial.&amp;#xD;&amp;#xD;Peltier-Based Incubators:&amp;#xD;Peltier-based incubators utilize thermoelectric cooling technology, offering precise temperature control and faster response times. These are energy-efficient and suitable for applications demanding tight temperature regulation. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated Incubators (Cooling chembers):&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated incubators incorporate cooling systems, enabling them to maintain lower temperatures. These are suitable for applications requiring both incubation and storage of samples at controlled temperatures.&amp;#xD;&amp;#xD;Microaerophilic Incubators:&amp;#xD;Microaerophilic incubators create environments with reduced oxygen levels, making them suitable for cultivating microorganisms that thrive in low-oxygen conditions, such as certain bacteria and protozoa.&amp;#xD;&amp;#xD;Choosing the right incubator type depends on the specific requirements of the microbiological work being conducted, ensuring optimal conditions for the growth and study of microorganisms in a controlled laboratory setting.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5dwzLMPGeqy.6MxLOGCFjlH" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Center" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Why Petri plates are often inverted during incubation?&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Incubator Types in Microbiology Laboratory&amp;#xD;In microbiology laboratories, incubators play a crucial role in providing controlled environments for the cultivation and growth of microorganisms. These specialized devices maintain optimal temperature, humidity, and other conditions to support the proliferation of bacteria, fungi, and other microbes. Here are common types of incubators used in microbiology:&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;BOD Incubators:&amp;#xD;Biological Oxygen Demand (BOD) incubators are designed for applications requiring low-temperature incubation. They maintain a stable environment for delicate cultures, biochemical oxygen demand tests, and other processes that demand precise temperature control.&amp;#xD;&amp;#xD;CO2 Incubators:&amp;#xD;CO2 incubators are essential for cell culture work, particularly with mammalian cells. They regulate not only temperature and humidity but also carbon dioxide levels, creating an environment akin to the human body. This is vital for maintaining pH balance in cell cultures.&amp;#xD;&amp;#xD;Anaerobic Incubators:&amp;#xD;Anaerobic incubators are used when cultivating microorganisms that thrive in the absence of oxygen. These incubators create oxygen-free environments, promoting the growth of anaerobes and facilitating specific microbiological studies.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;Shaking Incubators:&amp;#xD;Shaking incubators combine controlled temperature with agitation. They are ideal for experiments requiring continuous mixing, such as bacterial cultures, fermentation studies, or any application where homogeneous conditions are crucial.&amp;#xD;&amp;#xD;Peltier-Based Incubators:&amp;#xD;Peltier-based incubators utilize thermoelectric cooling technology, offering precise temperature control and faster response times. These are energy-efficient and suitable for applications demanding tight temperature regulation. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated Incubators (Cooling chembers):&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Refrigerated incubators incorporate cooling systems, enabling them to maintain lower temperatures. These are suitable for applications requiring both incubation and storage of samples at controlled temperatures.&amp;#xD;&amp;#xD;Microaerophilic Incubators:&amp;#xD;Microaerophilic incubators create environments with reduced oxygen levels, making them suitable for cultivating microorganisms that thrive in low-oxygen conditions, such as certain bacteria and protozoa.&amp;#xD;&amp;#xD;Choosing the right incubator type depends on the specific requirements of the microbiological work being conducted, ensuring optimal conditions for the growth and study of microorganisms in a controlled laboratory setting.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>
